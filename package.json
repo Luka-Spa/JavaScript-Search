@@ -1,0 +1,12 @@
+{
+  "name": "javascript_search",
+  "version": "1.0.0",
+  "main": "./dist",
+  "scripts": {
+    "start": "ts-node ./src"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
